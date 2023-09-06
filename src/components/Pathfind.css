@@ -1,0 +1,16 @@
+.Wrapper {
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+
+.rowWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.basic{
+    color: rgb(70, 35, 108);
+}
